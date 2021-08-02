@@ -1,16 +1,9 @@
-# chat_app_ui
+# Freedom
 
-A new Flutter project.
+Freedom is a chatting app with light and dark mode
 
-## Getting Started
+## App Images
 
-This project is a starting point for a Flutter application.
+![freedom1](https://user-images.githubusercontent.com/71263421/127899815-7711d4bf-da0a-40ab-be17-cf1006624edd.jpg)
+![freedom2](https://user-images.githubusercontent.com/71263421/127899828-ee857b20-13f8-4d9b-8ae5-9ddef77f278a.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
